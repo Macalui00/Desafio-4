@@ -1,4 +1,3 @@
-const Contenedor = require('./Contenedor.js');
 const express = require("express");
 const {Router} = express;
 
